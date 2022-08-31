@@ -123,7 +123,7 @@ uses: ./.github/actions/package-unit-test
 
 ## When can this be used?
 
-Weuse this in our monorepo for running only against those packages which were changed on the current branch. To achieve this, we have different workflows in the `workflow` directory which run against a specific package only if there was change in the package. This is an example of the beginning of such package.
+We use this in our monorepo for running only against those packages which were changed on the current branch. To achieve this, we have different workflows in the `workflow` directory which run against a specific package only if there was change in the package. This is an example of the beginning of such package.
 
 
 ```yml
