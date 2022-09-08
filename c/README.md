@@ -4,8 +4,10 @@ C is a general-purpose, imperative procedural, weak statically typed, low-level,
 
 # C Standards
 
-The most used C standards are:
+The most known C standards are:
 
+* K&R C
+* C89 (ANSI C, C90)
 * C99
 * C11
 * C17 (C18)
