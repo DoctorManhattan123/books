@@ -12,7 +12,7 @@ The most known C standards are:
 * C11
 * C17 (C18)
 
-Nowadays `C11` is the most common used one although some things like the Linux Kernel are still compiled with `-std=gnu89`.
+Nowadays `C99` is probably the most common used one although some things like the Linux Kernel are still compiled with `-std=gnu89` (because it's a super big project which was started in 1991, where this was the newest standard). If you start a new project you should be using the new standards (e.g. C17). GCC for example compiles with the C11 standard if nothing is specified.  
 
 # Major C Compilers
 
